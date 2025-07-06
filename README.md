@@ -12,7 +12,7 @@ The goal was to build a neural network to predict customer churn using the **Kag
 
 ## Project Overview
 
-This project tackles customer churn prediction through a neural network developed in PyTorch.
+This project targets customer churn prediction through a neural network developed in PyTorch.
 
 1.  **Initial Approach:** I began by loading, basic preprocessing (scaling, train/test/validation split), and converting the data to PyTorch tensors. After defining a multi-layered neural network and setting up loss and optimizer functions, the initial model was trained and evaluated.
     * **Challenge:** The original model suffered from **overfitting** and achieved a modest 76% accuracy, barely outperforming the 73% baseline accuracy of random guessing (due to unbalanced classes).
