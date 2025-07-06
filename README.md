@@ -4,9 +4,9 @@
 
 ## About This Project
 
-This **solo personal project**, completed in **November 2024**, was born from my desire to master the world of AI Engineering. Having previously worked with TensorFlow, I wanted to dive deeper into PyTorch's customization capabilities and gain hands-on experience with its core functionalities through trial and error.
+This **solo personal project**, completed in **November 2024**, was created to expand my knowledge and abilities in the world of AI Engineering. Having previously worked with TensorFlow, I wanted to dive deeper into PyTorch's customization capabilities and gain hands-on experience with its core functionalities through trial and error.
 
-The goal was to build a neural network to predict customer churn using the **Kaggle "Telco Customer Churn" dataset** (available [here](https://www.kaggle.com/blastchar/telco-customer-churn)). This project allowed me to explore various approaches, from an initial attempt to a more refined strategy involving advanced data preprocessing to overcome common challenges like **class imbalance** and **model overfitting**.
+The goal was to build a neural network to predict customer churn using the **Kaggle "Telco Customer Churn" dataset** (available [here](https://www.kaggle.com/blastchar/telco-customer-churn)). This project allowed me to explore various approaches, from an initial attempt to a more refined strategy involving advanced data preprocessing techniques to overcome common challenges like **class imbalance** and **model overfitting**.
 
 ---
 
